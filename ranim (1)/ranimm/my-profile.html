@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile | HelpLink</title>
+    <link rel="stylesheet" href="my-profile.css">
+</head>
+<body>
+    <header>
+        <a class="logo" href="index.html">HelpLink</a>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="my-requests.html">My Requests</a>
+            <a href="my-offers.html">My Offers</a>
+            <a href="notifications.html">Notifications</a>
+            <a href="my-profile.html" aria-current="page">Profile</a>
+        </nav>
+    </header>
+    <div class="content">
+        <p class="account">Signed in as Ranim | One account to request help or offer help</p>
+        <h1>My Profile</h1>
+        <form>
+            <label for="name">Full name *</label>
+            <input id="name" value="Ranim Toutanji" required>
+            <label for="bio">About me</label>
+            <textarea id="bio" rows="3">I can help with design and community posters. I am also learning ASP.NET.</textarea>
+            <label for="skills">My skills</label>
+            <input id="skills" value="Design, Graphic Design">
+            <label for="portfolio">Portfolio link</label>
+            <input id="portfolio" type="url" placeholder="https://your-portfolio.com">
+            <label for="availability">Availability</label>
+            <input id="availability" value="Weekday evenings">
+            <div class="actions"><button type="button">Save Profile</button></div>
+        </form>
+    </div>
+    <footer>HelpLink | Helping each other</footer>
+</body>
+</html>

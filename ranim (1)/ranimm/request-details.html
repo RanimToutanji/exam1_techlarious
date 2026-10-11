@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request Details | HelpLink</title>
+    <link rel="stylesheet" href="request-details.css">
+</head>
+<body>
+    <header>
+        <a class="logo" href="index.html">HelpLink</a>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="my-requests.html">My Requests</a>
+            <a href="my-offers.html">My Offers</a>
+            <a href="notifications.html">Notifications</a>
+            <a href="my-profile.html">Profile</a>
+        </nav>
+    </header>
+    <div class="content">
+        <p class="account">Helper view | Request #42 | Status: Open</p>
+        <h1>Review my ASP.NET project</h1>
+        <p>Client: Ranim | Online | Deadline: 10 Oct, 18:00</p>
+        <p>Skills: ASP.NET Core, C#</p>
+        <p>Review MVC structure and validation issues.</p>
+        <form action="my-offers.html">
+            <label for="help">How can you help? *</label>
+            <textarea id="help" rows="3" required>I can review the controllers and explain validation fixes.</textarea>
+            <label for="availability">Proposed availability *</label>
+            <input id="availability" value="8 Oct, 17:00 - 18:00" required>
+            <div class="actions"><button type="submit">Send Offer</button></div>
+        </form>
+        <p>An offer stays pending until the client decides.</p>
+        <a href="my-offers.html">My Offers</a>
+    </div>
+    <footer>HelpLink | Helping each other</footer>
+</body>
+</html>

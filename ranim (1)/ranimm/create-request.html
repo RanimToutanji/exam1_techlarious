@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create a Request | HelpLink</title>
+    <link rel="stylesheet" href="create-request.css">
+</head>
+<body>
+    <header>
+        <a class="logo" href="index.html">HelpLink</a>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="my-requests.html">My Requests</a>
+            <a href="my-offers.html">My Offers</a>
+            <a href="notifications.html">Notifications</a>
+            <a href="my-profile.html">Profile</a>
+        </nav>
+    </header>
+    <div class="content">
+        <p class="account">Client | Create or edit a request</p>
+        <h1>Create a Request</h1>
+        <form action="my-requests.html">
+            <label for="category">Category</label>
+            <select id="category">
+                <option>Programming</option>
+                <option>Design / Logo</option>
+                <option>CV / Career</option>
+                <option>Home Repairs</option>
+            </select>
+            <label for="title">Title *</label>
+            <input id="title" value="Review my ASP.NET project" required>
+            <label for="description">Description *</label>
+            <textarea id="description" rows="3" required>Review my MVC structure and help find validation issues.</textarea>
+            <label for="skills">Required skills *</label>
+            <input id="skills" value="ASP.NET Core, C#" required>
+            <div class="columns">
+                <div>
+                    <label for="mode">Help mode</label>
+                    <select id="mode"><option>Online</option><option>In person</option></select>
+                </div>
+                <div>
+                    <label for="urgency">Urgency</label>
+                    <select id="urgency"><option>Normal</option><option>Urgent</option></select>
+                </div>
+            </div>
+            <label for="deadline">Deadline (optional)</label>
+            <input id="deadline" type="datetime-local" value="2026-10-10T18:00">
+            <div class="actions"><button type="submit">Publish Request</button></div>
+        </form>
+    </div>
+    <footer>HelpLink | Helping each other</footer>
+</body>
+</html>

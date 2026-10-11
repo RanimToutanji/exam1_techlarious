@@ -1,0 +1,1458 @@
+<mxfile host="Electron" pages="7">
+  <diagram id="alt-page-1" name="Q1 - Community Personas">
+    <mxGraphModel dx="2050" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1820" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alt-1" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=29;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="HelpLink | People who use the platform" vertex="1">
+          <mxGeometry height="45" width="1720" x="35" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-2" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="A member may request assistance and offer assistance using the same account." vertex="1">
+          <mxGeometry height="60" width="1720" x="35" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-3" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="635" width="560" x="35" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-4" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=23;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Help seeker (User)" vertex="1">
+          <mxGeometry height="42" width="520" x="55" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-5" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="About" vertex="1">
+          <mxGeometry height="28" width="510" x="55" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-6" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Someone who needs practical support, such as a student needing a CV review." vertex="1">
+          <mxGeometry height="75" width="510" x="55" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-7" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Goal" vertex="1">
+          <mxGeometry height="28" width="510" x="55" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-8" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Arrange suitable help without searching many chat groups." vertex="1">
+          <mxGeometry height="75" width="510" x="55" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-9" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Needs" vertex="1">
+          <mxGeometry height="28" width="510" x="55" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-10" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Available helpers, clear skills, request updates and contact options." vertex="1">
+          <mxGeometry height="75" width="510" x="55" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-11" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Difficulties" vertex="1">
+          <mxGeometry height="28" width="510" x="55" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-12" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Unanswered posts, uncertain trust and difficulty following requests." vertex="1">
+          <mxGeometry height="75" width="510" x="55" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-13" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="635" width="560" x="625" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-14" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=23;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Skill sharer (Member)" vertex="1">
+          <mxGeometry height="42" width="520" x="645" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-15" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="About" vertex="1">
+          <mxGeometry height="28" width="510" x="645" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-16" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Someone offering time or practical knowledge to neighbours." vertex="1">
+          <mxGeometry height="75" width="510" x="645" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-17" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Goal" vertex="1">
+          <mxGeometry height="28" width="510" x="645" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-18" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Use their abilities to support others when they are free." vertex="1">
+          <mxGeometry height="75" width="510" x="645" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-19" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Needs" vertex="1">
+          <mxGeometry height="28" width="510" x="645" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-20" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="A service profile, control over availability and clear incoming requests." vertex="1">
+          <mxGeometry height="75" width="510" x="645" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-21" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Difficulties" vertex="1">
+          <mxGeometry height="28" width="510" x="645" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-22" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="People cannot see their skills; requests arrive through scattered chats." vertex="1">
+          <mxGeometry height="75" width="510" x="645" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-23" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="635" width="560" x="1215" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-24" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=23;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Community coordinator (Admin)" vertex="1">
+          <mxGeometry height="42" width="520" x="1235" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-25" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="About" vertex="1">
+          <mxGeometry height="28" width="510" x="1235" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-26" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The organizer responsible for supervising HelpLink." vertex="1">
+          <mxGeometry height="75" width="510" x="1235" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-27" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Goal" vertex="1">
+          <mxGeometry height="28" width="510" x="1235" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-28" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Keep requests organized and respond to community problems." vertex="1">
+          <mxGeometry height="75" width="510" x="1235" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-29" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Needs" vertex="1">
+          <mxGeometry height="28" width="510" x="1235" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-30" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="A shared view of accounts, reports, services and urgent requests." vertex="1">
+          <mxGeometry height="75" width="510" x="1235" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-31" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Difficulties" vertex="1">
+          <mxGeometry height="28" width="510" x="1235" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-32" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Limited oversight and no clear way to highlight urgent cases." vertex="1">
+          <mxGeometry height="75" width="510" x="1235" y="657" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-2" name="Q1.2 - Role Actions">
+    <mxGraphModel dx="3870" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1820" pageHeight="990" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alt-33" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=150;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="What each role can do" vertex="1">
+          <mxGeometry height="45" width="1720" x="-100" y="-145" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-35" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="755" width="560" x="-220" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-36" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=25;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="User" vertex="1">
+          <mxGeometry height="40" width="500" x="-200" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-37" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Find help → submit → follow up" vertex="1">
+          <mxGeometry height="40" width="500" x="-200" y="231" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-38" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="1. Browse services by category and availability." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-39" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="2. Read helper profiles and previous ratings." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-40" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="3. Describe the task and indicate whether it is urgent." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-41" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="4. Save requests in the list, then review and confirm." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="508" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-42" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="5. Follow progress; edit or cancel when allowed." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-43" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="6. Chat with the helper and receive reminders." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-44" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="7. Read past requests and leave a rating or feedback." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-45" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="8. Send a problem report to the coordinator." vertex="1">
+          <mxGeometry height="58" width="510" x="-200" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-46" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="755" width="560" x="470" y="159.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-47" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=25;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Member" vertex="1">
+          <mxGeometry height="40" width="500" x="490" y="179.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-48" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Offer skills → respond → help" vertex="1">
+          <mxGeometry height="40" width="500" x="490" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-49" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="1. Describe skills and publish a service." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="304.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-50" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="2. Set availability for new requests." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="374.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-51" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="3. Read the requests received for a service." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="444.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-52" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="4. Approve or decline a request." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="514.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-53" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="5. Discuss the task with the requester." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="584.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-54" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="6. Deliver the help and mark it completed." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="654.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-55" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="7. View previous help and rate the requester." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="724.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-56" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="8. Report a problem or contact the coordinator." vertex="1">
+          <mxGeometry height="58" width="510" x="490" y="794.5" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-57" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="755" width="560" x="1240" y="151" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-58" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=25;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Admin" vertex="1">
+          <mxGeometry height="40" width="500" x="1260" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-59" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Review → act → monitor" vertex="1">
+          <mxGeometry height="40" width="500" x="1260" y="229" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-60" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="1. Sign in to the administration area." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-61" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="2. Inspect accounts and service listings." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-62" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="3. Check current requests and their progress." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-63" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="4. Read complaints and contact messages." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-64" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="5. Block accounts when necessary." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-65" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="6. Review urgent requests and assign priority." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="646" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-66" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="7. View activity summaries generated by the system." vertex="1">
+          <mxGeometry height="58" width="510" x="1260" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="PhWo7JzhQhLb9IQ3xxpj-1" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=21;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Platform rules supporting the request lifecycle" vertex="1">
+          <mxGeometry height="35" width="1750" x="-50" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="PhWo7JzhQhLb9IQ3xxpj-2" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="• One selected helper per request; new offers stop after acceptance. Users cannot offer help on their own requests.&#xa;• A Helper must not repost an accepted task to transfer it to another helper; they must notify the Client and withdraw if unable to continue.&#xa;• Request states: Open, Assigned, In Progress, Completed, Cancelled, Expired. An unfinished open request expires at its deadline; an active task is flagged overdue.&#xa;• Expired/cancelled requests stay in history. Adding new software features is a developer responsibility; Admins manage categories and existing settings." vertex="1">
+          <mxGeometry height="120" width="1750" x="-50" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-3" name="Q2 - Platform Requirements">
+    <mxGraphModel dx="5237" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1820" pageHeight="1850" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alt-67" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=29;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="HelpLink requirements" vertex="1">
+          <mxGeometry height="45" width="1720" x="-200" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-69" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-70" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR1: Account registration" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-71" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall let a new person create an account." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-72" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-73" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR2: Access and recovery" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-74" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall support sign-in and password recovery." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-75" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-76" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR3: Find services" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-77" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall search services by keyword and filter by category or availability." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-78" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-79" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR4: Helper information" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-80" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall show service details, provider skills and existing ratings." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-81" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-82" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR5: Request list and submission" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-83" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall let users add tasks to a request list, review them and confirm requests." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-84" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-85" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR6: Progress and history" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-86" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall display request status and earlier completed requests." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-87" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-88" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR7: Request changes" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-89" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall permit request editing or cancellation when its status allows it." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-90" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-91" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR8: Offer assistance" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-92" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall let members publish skills as services and update availability." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-93" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-94" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR9: Respond and complete" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="814" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-95" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall let the provider approve, decline and complete assigned requests." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="858" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-96" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-97" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR10: Stay in contact" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="814" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-98" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall provide request messages, notifications and reminders." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="858" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-99" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="-200" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-100" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR11: Rate an experience" vertex="1">
+          <mxGeometry height="30" width="800" x="-182" y="974" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-101" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall allow participants to rate and review help after completion." vertex="1">
+          <mxGeometry height="64" width="800" x="-182" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-102" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="135" width="845" x="680" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-103" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=20;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="FR12: Community administration" vertex="1">
+          <mxGeometry height="30" width="800" x="698" y="974" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-104" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="The platform shall let admins inspect users, services and reports, block users and prioritize urgent cases." vertex="1">
+          <mxGeometry height="64" width="800" x="698" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-105" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=25;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Quality requirements" vertex="1">
+          <mxGeometry height="42" width="1720" x="-205" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-106" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;fontStyle=1;" value="NFR1: Performance" vertex="1">
+          <mxGeometry height="85" width="370" x="-205" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-107" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;align=left;spacingLeft=10;" value="Service searches and common pages should respond quickly during normal use." vertex="1">
+          <mxGeometry height="85" width="1360" x="165" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-108" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;fontStyle=1;" value="NFR2: Security" vertex="1">
+          <mxGeometry height="85" width="370" x="-205" y="1357" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-109" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;align=left;spacingLeft=10;" value="Passwords and personal details must be protected; access must follow account roles." vertex="1">
+          <mxGeometry height="85" width="1360" x="165" y="1357" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-110" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;fontStyle=1;" value="NFR3: Ease of use" vertex="1">
+          <mxGeometry height="85" width="370" x="-205" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-111" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;align=left;spacingLeft=10;" value="Labels, forms and navigation should be clear for people with different technical skills." vertex="1">
+          <mxGeometry height="85" width="1360" x="165" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-112" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;fontStyle=1;" value="NFR4: Compatibility" vertex="1">
+          <mxGeometry height="85" width="370" x="-205" y="1571" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-113" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;align=left;spacingLeft=10;" value="The proposed platform should support desktop and mobile web browsers." vertex="1">
+          <mxGeometry height="85" width="1360" x="165" y="1571" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-114" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;fontStyle=1;" value="NFR5: Reliability" vertex="1">
+          <mxGeometry height="85" width="370" x="-205" y="1678" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-115" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;rounded=0;align=left;spacingLeft=10;" value="Saved requests, messages and feedback should remain available and consistent." vertex="1">
+          <mxGeometry height="85" width="1360" x="165" y="1678" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-4" name="Q3 - Design and Sketches">
+    <mxGraphModel dx="2715" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2860" pageHeight="2670" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-1" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="A. Home / Categories" vertex="1">
+          <mxGeometry height="35" width="740" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-2" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="90" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-3" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="105" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-4" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="245" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-5" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Signed in as Ranim | One account: request help or offer help" vertex="1">
+          <mxGeometry height="28" width="700" x="110" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-6" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="What do you need help with?" vertex="1">
+          <mxGeometry height="45" width="690" x="115" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-7" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=center;" value="Programming" vertex="1">
+          <mxGeometry height="48" width="330" x="115" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-8" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=center;" value="Design / Logo" vertex="1">
+          <mxGeometry height="48" width="330" x="465" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-9" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=center;" value="CV / Career" vertex="1">
+          <mxGeometry height="48" width="330" x="115" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-10" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=center;" value="Home Repairs" vertex="1">
+          <mxGeometry height="48" width="330" x="465" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-11" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Request Programming Help" vertex="1">
+          <mxGeometry height="42" width="300" x="115" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-12" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="120" width="690" x="115" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-13" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Requests matching your skills" vertex="1">
+          <mxGeometry height="30" width="650" x="130" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-14" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Design a community poster | Design | Open&#xa;You can also help others from this account." vertex="1">
+          <mxGeometry height="65" width="650" x="130" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-15" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Browse Requests" vertex="1">
+          <mxGeometry height="42" width="210" x="115" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-16" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="B. Create a Request" vertex="1">
+          <mxGeometry height="35" width="740" x="1080" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-17" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="1080" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-18" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="1095" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-19" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="1235" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-20" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client | Category selected: Programming" vertex="1">
+          <mxGeometry height="28" width="700" x="1100" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-21" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Title *" vertex="1">
+          <mxGeometry height="28" width="690" x="1105" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-22" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Review my ASP.NET project" vertex="1">
+          <mxGeometry height="42" width="690" x="1105" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-23" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Description *" vertex="1">
+          <mxGeometry height="28" width="690" x="1105" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-24" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Review my MVC structure and help find validation issues." vertex="1">
+          <mxGeometry height="65" width="690" x="1105" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-25" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Required skills *" vertex="1">
+          <mxGeometry height="28" width="690" x="1105" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-26" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="ASP.NET Core, C#" vertex="1">
+          <mxGeometry height="42" width="690" x="1105" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-27" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Help mode / Urgency" vertex="1">
+          <mxGeometry height="28" width="690" x="1105" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-28" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Online / Normal" vertex="1">
+          <mxGeometry height="42" width="690" x="1105" y="507" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-29" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Deadline (optional)" vertex="1">
+          <mxGeometry height="28" width="690" x="1105" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-30" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="10 Oct 2026, 18:00" vertex="1">
+          <mxGeometry height="42" width="690" x="1105" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-31" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Publish Request" vertex="1">
+          <mxGeometry height="42" width="230" x="1105" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-32" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Required fields missing? Show an error beside the field." vertex="1">
+          <mxGeometry height="40" width="690" x="1105" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-33" edge="1" parent="1" source="iCv0dGLzi95w9f1KlmW4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;strokeColor=#333333;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="iCv0dGLzi95w9f1KlmW4-17" value="Choose category">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-34" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="C. Browse Matching Requests" vertex="1">
+          <mxGeometry height="35" width="740" x="2020" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-35" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="2020" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-36" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="2035" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-37" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="2175" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-38" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Signed in as Hadi | Skills: ASP.NET Core, C#" vertex="1">
+          <mxGeometry height="28" width="700" x="2040" y="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-39" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Search requests" vertex="1">
+          <mxGeometry height="28" width="690" x="2045" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-40" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="ASP.NET" vertex="1">
+          <mxGeometry height="42" width="690" x="2045" y="274.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-41" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Filters" vertex="1">
+          <mxGeometry height="28" width="690" x="2045" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-42" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Category: Programming | Mode: Online | Status: Open" vertex="1">
+          <mxGeometry height="42" width="690" x="2045" y="359.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-43" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="125" width="690" x="2045" y="432.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-44" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Review my ASP.NET project" vertex="1">
+          <mxGeometry height="30" width="650" x="2060" y="444.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-45" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Ranim | ASP.NET Core, C# | Online&#xa;Deadline: 10 Oct, 18:00 | Normal | Open" vertex="1">
+          <mxGeometry height="70" width="650" x="2060" y="480.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-46" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="View Request" vertex="1">
+          <mxGeometry height="42" width="200" x="2045" y="572.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-47" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="No matches? Clear filters or update your skills." vertex="1">
+          <mxGeometry height="55" width="690" x="2045" y="642.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-48" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="D. Request Details / Offer Help" vertex="1">
+          <mxGeometry height="35" width="740" x="3010" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-49" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="3010" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-50" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="3025" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-51" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="3165" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-52" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Helper view | Request #42 | Status: Open" vertex="1">
+          <mxGeometry height="28" width="700" x="3030" y="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-53" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Review my ASP.NET project" vertex="1">
+          <mxGeometry height="35" width="690" x="3035" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-54" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client: Ranim | Online | Deadline: 10 Oct, 18:00&#xa;Skills: ASP.NET Core, C#&#xa;Review MVC structure and validation issues." vertex="1">
+          <mxGeometry height="95" width="690" x="3035" y="287.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-55" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="How can you help? *" vertex="1">
+          <mxGeometry height="28" width="690" x="3035" y="397.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-56" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="I can review the controllers and explain validation fixes." vertex="1">
+          <mxGeometry height="65" width="690" x="3035" y="429.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-57" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Proposed availability *" vertex="1">
+          <mxGeometry height="28" width="690" x="3035" y="497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-58" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="8 Oct, 17:00 - 18:00" vertex="1">
+          <mxGeometry height="42" width="690" x="3035" y="529.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-59" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Send Offer" vertex="1">
+          <mxGeometry height="42" width="190" x="3035" y="602.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-60" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="After Send: “Offer sent — waiting for Ranim.”&#xa;My Offers: Pending | Withdraw Offer&#xa;If already assigned: disable Send Offer and show why." vertex="1">
+          <mxGeometry height="95" width="690" x="3035" y="662.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-61" edge="1" parent="1" source="iCv0dGLzi95w9f1KlmW4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;strokeColor=#333333;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="iCv0dGLzi95w9f1KlmW4-49" value="View details">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-62" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="E. Review Offers" vertex="1">
+          <mxGeometry height="35" width="740" x="90" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-63" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="90" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-64" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="105" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-65" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="245" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-66" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client view | Request #42 | Open | 2 offers" vertex="1">
+          <mxGeometry height="28" width="700" x="110" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-67" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="120" width="690" x="115" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-68" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Hadi | ASP.NET Core, C# | 4.8/5 (12 reviews)" vertex="1">
+          <mxGeometry height="30" width="650" x="130" y="1007" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-69" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="“I can review your controllers and validation.”&#xa;Available: 8 Oct, 17:00 - 18:00" vertex="1">
+          <mxGeometry height="65" width="650" x="130" y="1043" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-70" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="View Profile / Portfolio" vertex="1">
+          <mxGeometry height="42" width="280" x="115" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-71" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Reject Offer" vertex="1">
+          <mxGeometry height="42" width="190" x="435" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-72" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="120" width="690" x="115" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-73" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Maya | C#, PostgreSQL | 4.6/5 (8 reviews)" vertex="1">
+          <mxGeometry height="30" width="650" x="130" y="1217" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-74" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="“I can help review database validation.”&#xa;Available: 9 Oct, 16:00 - 17:00" vertex="1">
+          <mxGeometry height="65" width="650" x="130" y="1253" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-75" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="View Maya Profile" vertex="1">
+          <mxGeometry height="42" width="220" x="115" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-76" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="An offer stays Pending until you decide.&#xa;No offers? Show the empty state and allow editing." vertex="1">
+          <mxGeometry height="75" width="690" x="115" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-77" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="F. Helper Profile / Accept Offer" vertex="1">
+          <mxGeometry height="35" width="740" x="1080" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-78" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="1080" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-79" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="1095" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-80" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="1235" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-81" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client view | Review Hadi before choosing" vertex="1">
+          <mxGeometry height="28" width="700" x="1100" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-82" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Hadi | Software Developer" vertex="1">
+          <mxGeometry height="35" width="690" x="1105" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-83" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Skills: ASP.NET Core, C#, MVC&#xa;Available: 8 Oct, 17:00 - 18:00&#xa;Rating: 4.8/5 from 12 completed-help reviews" vertex="1">
+          <mxGeometry height="90" width="690" x="1105" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-84" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="110" width="690" x="1105" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-85" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Portfolio" vertex="1">
+          <mxGeometry height="30" width="650" x="1120" y="1162" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-86" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Community booking app | View project&#xa;C# validation examples | View project" vertex="1">
+          <mxGeometry height="55" width="650" x="1120" y="1198" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-87" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Review: “Clear explanations and helpful code feedback.”" vertex="1">
+          <mxGeometry height="65" width="690" x="1105" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-88" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Accept Hadi" vertex="1">
+          <mxGeometry height="42" width="210" x="1105" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-89" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Back to Offers" vertex="1">
+          <mxGeometry height="42" width="210" x="1350" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-90" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Confirm: Select Hadi as the one helper for this request?&#xa;After confirmation: Assigned; notify Hadi; close other&#xa;offers as Not Selected; stop new offers." vertex="1">
+          <mxGeometry height="90" width="690" x="1105" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-91" edge="1" parent="1" source="iCv0dGLzi95w9f1KlmW4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;strokeColor=#333333;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="iCv0dGLzi95w9f1KlmW4-78" value="View profile">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-92" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="G. Collaboration / Task Progress" vertex="1">
+          <mxGeometry height="35" width="740" x="2005" y="857.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-93" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="2005" y="902.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-94" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="2020" y="917.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-95" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="2160" y="922.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-96" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Request #42 | Ranim + Hadi | Assigned → In Progress" vertex="1">
+          <mxGeometry height="28" width="700" x="2025" y="962.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-97" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Review my ASP.NET project" vertex="1">
+          <mxGeometry height="35" width="690" x="2030" y="997.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-98" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Selected helper: Hadi | Deadline: 10 Oct, 18:00&#xa;Helper action: [Start Task] → In Progress" vertex="1">
+          <mxGeometry height="75" width="690" x="2030" y="1047.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-99" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="115" width="690" x="2030" y="1137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-100" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=19;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Messages" vertex="1">
+          <mxGeometry height="30" width="650" x="2045" y="1149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-101" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Ranim: Can we start with the validation issue?&#xa;Hadi: Yes, send the relevant controller." vertex="1">
+          <mxGeometry height="60" width="650" x="2045" y="1185.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-102" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Message" vertex="1">
+          <mxGeometry height="28" width="690" x="2030" y="1272.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-103" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Type your message…" vertex="1">
+          <mxGeometry height="42" width="690" x="2030" y="1304.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-104" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Send Message" vertex="1">
+          <mxGeometry height="42" width="180" x="2030" y="1357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-105" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Work Finished (Helper)" vertex="1">
+          <mxGeometry height="42" width="270" x="2250" y="1357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-106" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client: [Cancel / Report Problem]&#xa;Helper: [Withdraw + Notify Client]&#xa;Withdrawal: Client may reopen and choose another helper." vertex="1">
+          <mxGeometry height="90" width="690" x="2030" y="1422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-107" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="H. Confirm Completion / Rate" vertex="1">
+          <mxGeometry height="35" width="740" x="2995" y="857.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-108" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="" vertex="1">
+          <mxGeometry height="650" width="740" x="2995" y="902.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-109" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=22;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="HelpLink" vertex="1">
+          <mxGeometry height="30" width="125" x="3010" y="917.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-110" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=15;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Home   My Requests   My Offers   Notifications   Profile" vertex="1">
+          <mxGeometry height="25" width="570" x="3150" y="922.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-111" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Client view | Helper says work is finished" vertex="1">
+          <mxGeometry height="28" width="700" x="3015" y="962.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-112" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Has the requested help been completed?" vertex="1">
+          <mxGeometry height="55" width="690" x="3020" y="997.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-113" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Confirm Completion" vertex="1">
+          <mxGeometry height="42" width="260" x="3020" y="1062.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-114" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Needs More Work" vertex="1">
+          <mxGeometry height="42" width="230" x="3315" y="1062.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-115" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="Confirm → Status: Completed.&#xa;Needs More Work → keep In Progress and message Hadi." vertex="1">
+          <mxGeometry height="70" width="690" x="3020" y="1132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-116" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Rating (after completion)" vertex="1">
+          <mxGeometry height="28" width="690" x="3020" y="1232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-117" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="5 / 5" vertex="1">
+          <mxGeometry height="42" width="690" x="3020" y="1264.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-118" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;fontStyle=1;" value="Feedback" vertex="1">
+          <mxGeometry height="28" width="690" x="3020" y="1322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-119" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;rounded=0;spacing=8;align=left;" value="Hadi explained the validation fixes clearly." vertex="1">
+          <mxGeometry height="55" width="690" x="3020" y="1354.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-120" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=17;fontColor=#111111;strokeColor=#333333;fillColor=#F0F0F0;rounded=0;spacing=8;align=center;fontStyle=1;" value="Submit Review" vertex="1">
+          <mxGeometry height="42" width="220" x="3020" y="1427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-121" parent="1" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=18;fontColor=#111111;strokeColor=#333333;fillColor=#FFFFFF;text;strokeOpacity=0;fillOpacity=0;verticalAlign=top;align=left;" value="History: #42 | Completed | Hadi | Review submitted" vertex="1">
+          <mxGeometry height="40" width="690" x="3020" y="1482.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iCv0dGLzi95w9f1KlmW4-122" edge="1" parent="1" source="iCv0dGLzi95w9f1KlmW4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;fontFamily=Arial;fontSize=16;strokeColor=#333333;labelBackgroundColor=#FFFFFF;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="iCv0dGLzi95w9f1KlmW4-108" value="Notify Client">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-5" name="Activity - Assistance Journey">
+    <mxGraphModel dx="3103" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2050" pageHeight="2100" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alt-246" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=29;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="From finding help to completing a task" vertex="1">
+          <mxGeometry height="45" width="1950" x="35" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-1" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;text;strokeColor=none;fillColor=none;fontSize=25;fontStyle=1;" value="HelpLink - From asking for help to completing a task" vertex="1">
+          <mxGeometry height="45" width="1410" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-2" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=0;fillColor=#f7f7f7;strokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="1550" width="440" x="90" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;text;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;" value="CLIENT - Requests help" vertex="1">
+          <mxGeometry height="50" width="420" x="100" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=0;fillColor=#f7f7f7;strokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="1550" width="440" x="580" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-5" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;text;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;" value="HELPER - Offers help" vertex="1">
+          <mxGeometry height="50" width="420" x="590" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-6" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=0;fillColor=#f7f7f7;strokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="1550" width="440" x="1070" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-7" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;text;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;" value="ADMIN - Manages the platform" vertex="1">
+          <mxGeometry height="50" width="420" x="1080" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-8" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Sign up or log in" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Choose a help category" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-10" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Add title, details, urgency&lt;br&gt;and deadline (optional)" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-11" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Publish request&lt;br&gt;Status: Open" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-12" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Receive an offer notification" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-13" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="View the helper profile, skills,&lt;br&gt;portfolio and reviews" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-14" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rhombus;" value="Accept this offer?" vertex="1">
+          <mxGeometry height="88" width="230" x="125" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-15" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Accept one helper&lt;br&gt;Status: Assigned" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-16" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Agree on the task and timing" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-17" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Receive help&lt;br&gt;Status: In Progress" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Confirm the task is finished&lt;br&gt;Status: Completed" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="1465" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-19" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Leave a rating and review&lt;br&gt;Keep the request in history" vertex="1">
+          <mxGeometry height="66" width="260" x="130" y="1595" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-20" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-21" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-22" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-23" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-24" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-25" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-26" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-15" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-27" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-28" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-29" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-30" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-31" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;fontSize=14;" value="Reject or leave pending.&lt;br&gt;Wait for another offer." vertex="1">
+          <mxGeometry height="100" width="125" x="385" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-32" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-31" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-33" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="1005" />
+              <mxPoint x="515" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-34" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Sign up or log in" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-35" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Add skills, portfolio&lt;br&gt;and availability" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-36" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Browse Open requests&lt;br&gt;Matching skills appear first" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-37" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rhombus;" value="Can I help with this task?" vertex="1">
+          <mxGeometry height="88" width="230" x="615" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-38" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Send a help offer&lt;br&gt;Offer status: Pending" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-39" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Wait for the client decision" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-40" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Offer accepted&lt;br&gt;Join the request" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="1095" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-41" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Agree on the task and timing" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-42" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Start work and provide help&lt;br&gt;Request status: In Progress" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-43" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Tell the client the work is done" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="1465" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-44" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="View completed tasks&lt;br&gt;and received reviews" vertex="1">
+          <mxGeometry height="66" width="260" x="620" y="1595" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-45" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-46" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-47" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-48" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-38" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-49" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-50" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-51" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-52" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-53" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-54" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-55" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;fontSize=14;" value="Skip this request" vertex="1">
+          <mxGeometry height="66" width="125" x="885" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-56" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-55" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-57" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1015" y="758" />
+              <mxPoint x="1015" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-58" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Log in to the admin dashboard" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-59" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Manage help categories" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-60" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Monitor requests, users&lt;br&gt;and reported content" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-61" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rhombus;" value="Is there a problem?" vertex="1">
+          <mxGeometry height="88" width="230" x="1125" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-62" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Review the report&lt;br&gt;and account history" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-63" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Choose the needed action" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-64" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Remove inappropriate content&lt;br&gt;or suspend a violating account" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-65" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Check urgent or overdue requests" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-66" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Help coordinate requests&lt;br&gt;that have been waiting" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-67" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;spacing=10;rounded=1;arcSize=8;" value="Review activity and statistics" vertex="1">
+          <mxGeometry height="66" width="300" x="1110" y="1465" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-68" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-69" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-70" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-71" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-62" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-72" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-73" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-74" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-75" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-76" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-77" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;" target="1x8rn--gaIXe1NR-tVKP-65" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="679" />
+              <mxPoint x="1475" y="1228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-78" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="1x8rn--gaIXe1NR-tVKP-36" value="Visible to helpers">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-79" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" target="1x8rn--gaIXe1NR-tVKP-12" value="Notify client">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="888" />
+              <mxPoint x="550" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-80" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="1x8rn--gaIXe1NR-tVKP-40" value="Notify helper">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1x8rn--gaIXe1NR-tVKP-81" edge="1" parent="1" source="1x8rn--gaIXe1NR-tVKP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#444444;fontFamily=Arial;fontSize=13;labelBackgroundColor=#ffffff;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" target="1x8rn--gaIXe1NR-tVKP-18" value="Client confirms">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-6" name="Q4 - Eight REST APIs">
+    <mxGraphModel dx="23390" dy="16250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1670" pageHeight="3730" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alt-337" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=150;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="HelpLink API outline" vertex="1">
+          <mxGeometry height="45" width="1580" x="930" y="-45" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-339" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="-130" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-340" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="1. POST : helplink.example/api/sessions" vertex="1">
+          <mxGeometry height="60" width="752" x="-112" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-341" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Start a signed-in session." vertex="1">
+          <mxGeometry height="58" width="752" x="-112" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-342" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: User / Member / Admin" vertex="1">
+          <mxGeometry height="40" width="752" x="-112" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-343" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{&#xa;    &amp;quot;email&amp;quot;: &amp;quot;layla@example.com&amp;quot;,&#xa;    &amp;quot;password&amp;quot;: &amp;quot;DemoPass42!&amp;quot;&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="-112" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-344" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;token&amp;quot;: &amp;quot;&amp;lt;access-token&amp;gt;&amp;quot;,&#xa;    &amp;quot;userId&amp;quot;: 21&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="-112" y="601" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-345" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 200 OK" vertex="1">
+          <mxGeometry height="30" width="752" x="-112" y="834" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-346" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Valid credentials return a token." vertex="1">
+          <mxGeometry height="44" width="752" x="-112" y="879" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-347" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 401: incorrect credentials; 403: blocked account." vertex="1">
+          <mxGeometry height="49" width="752" x="-112" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-348" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="690" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-349" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="2. GET : helplink.example/api/services" vertex="1">
+          <mxGeometry height="60" width="752" x="708" y="188" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-350" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Find available services." vertex="1">
+          <mxGeometry height="58" width="752" x="708" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-351" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: User / Member" vertex="1">
+          <mxGeometry height="40" width="752" x="708" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-352" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Request body:&#xa;None. Query: category=Technology&amp;available=true" vertex="1">
+          <mxGeometry height="225" width="752" x="708" y="383" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-353" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;items&amp;quot;: [&#xa;        {&#xa;            &amp;quot;id&amp;quot;: 8,&#xa;            &amp;quot;title&amp;quot;: &amp;quot;Laptop setup&amp;quot;,&#xa;            &amp;quot;providerId&amp;quot;: 14&#xa;        }&#xa;    ]&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="708" y="601" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-354" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 200 OK" vertex="1">
+          <mxGeometry height="30" width="752" x="708" y="834" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-355" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Matching services appear; no matches gives an empty list." vertex="1">
+          <mxGeometry height="44" width="752" x="708" y="879" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-356" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 400: invalid filter value." vertex="1">
+          <mxGeometry height="49" width="752" x="708" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-357" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="-120" y="1156" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-358" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="3. POST : helplink.example/api/services" vertex="1">
+          <mxGeometry height="60" width="752" x="-102" y="1174" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-359" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Publish an offer of help." vertex="1">
+          <mxGeometry height="58" width="752" x="-102" y="1246" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-360" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: Member" vertex="1">
+          <mxGeometry height="40" width="752" x="-102" y="1311" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-361" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{&#xa;    &amp;quot;title&amp;quot;: &amp;quot;Laptop setup&amp;quot;,&#xa;    &amp;quot;details&amp;quot;: &amp;quot;Software installation&amp;quot;,&#xa;    &amp;quot;category&amp;quot;: &amp;quot;Technology&amp;quot;,&#xa;    &amp;quot;available&amp;quot;: true&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="-102" y="1369" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-362" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;id&amp;quot;: 8,&#xa;    &amp;quot;providerId&amp;quot;: 14,&#xa;    &amp;quot;title&amp;quot;: &amp;quot;Laptop setup&amp;quot;&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="-102" y="1587" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-363" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 201 Created" vertex="1">
+          <mxGeometry height="30" width="752" x="-102" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-364" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Valid information creates a service owned by this member." vertex="1">
+          <mxGeometry height="44" width="752" x="-102" y="1865" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-365" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 400: missing title; 401: no valid token." vertex="1">
+          <mxGeometry height="49" width="752" x="-102" y="1921" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-366" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="700" y="1156" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-367" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="4. POST : helplink.example/api/cart/items" vertex="1">
+          <mxGeometry height="60" width="752" x="718" y="1174" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-368" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Save a draft request in the list." vertex="1">
+          <mxGeometry height="58" width="752" x="718" y="1246" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-369" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: User" vertex="1">
+          <mxGeometry height="40" width="752" x="718" y="1311" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-370" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{&#xa;    &amp;quot;serviceId&amp;quot;: 8,&#xa;    &amp;quot;details&amp;quot;: &amp;quot;Install my study software&amp;quot;,&#xa;    &amp;quot;urgent&amp;quot;: false&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="718" y="1369" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-371" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;id&amp;quot;: 17,&#xa;    &amp;quot;serviceId&amp;quot;: 8,&#xa;    &amp;quot;urgent&amp;quot;: false&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="718" y="1587" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-372" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 201 Created" vertex="1">
+          <mxGeometry height="30" width="752" x="718" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-373" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: An available service can be added to the user’s list." vertex="1">
+          <mxGeometry height="44" width="752" x="718" y="1865" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-374" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 404: service missing; 409: helper unavailable." vertex="1">
+          <mxGeometry height="49" width="752" x="718" y="1921" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-375" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="1800" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-376" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="5. POST : helplink.example/api/requests/checkout" vertex="1">
+          <mxGeometry height="60" width="752" x="1818" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-377" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Turn the current request list into pending requests." vertex="1">
+          <mxGeometry height="58" width="752" x="1818" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-378" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: User" vertex="1">
+          <mxGeometry height="40" width="752" x="1818" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-379" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="1818" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-380" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;requests&amp;quot;: [&#xa;        {&#xa;            &amp;quot;id&amp;quot;: 41,&#xa;            &amp;quot;serviceId&amp;quot;: 8,&#xa;            &amp;quot;status&amp;quot;: &amp;quot;pending&amp;quot;&#xa;        }&#xa;    ]&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="1818" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-381" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 201 Created" vertex="1">
+          <mxGeometry height="30" width="752" x="1818" y="829" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-382" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Valid items create requests and empty the list." vertex="1">
+          <mxGeometry height="44" width="752" x="1818" y="874" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-383" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 400: list empty; 409: unavailable item. On failure, keep the list unchanged." vertex="1">
+          <mxGeometry height="49" width="752" x="1818" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-384" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="2620" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-385" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="6. GET : helplink.example/api/requests" vertex="1">
+          <mxGeometry height="60" width="752" x="2638" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-386" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Show the user’s outgoing requests or provider’s incoming requests." vertex="1">
+          <mxGeometry height="58" width="752" x="2638" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-387" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: User / Member" vertex="1">
+          <mxGeometry height="40" width="752" x="2638" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-388" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Request body:&#xa;None. Query: view=sent or received; status=completed for history." vertex="1">
+          <mxGeometry height="225" width="752" x="2638" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-389" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;items&amp;quot;: [&#xa;        {&#xa;            &amp;quot;id&amp;quot;: 41,&#xa;            &amp;quot;requesterId&amp;quot;: 21,&#xa;            &amp;quot;status&amp;quot;: &amp;quot;approved&amp;quot;&#xa;        }&#xa;    ]&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="2638" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-390" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 200 OK" vertex="1">
+          <mxGeometry height="30" width="752" x="2638" y="829" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-391" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: The signed-in person sees only their own request records." vertex="1">
+          <mxGeometry height="44" width="752" x="2638" y="874" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-392" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 401: token missing; 400: unsupported view or status." vertex="1">
+          <mxGeometry height="49" width="752" x="2638" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-393" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="1840" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-394" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="7. PATCH : helplink.example/api/requests/{id}" vertex="1">
+          <mxGeometry height="60" width="752" x="1858" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-395" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Change request details or progress." vertex="1">
+          <mxGeometry height="58" width="752" x="1858" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-396" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: Requester / Assigned provider" vertex="1">
+          <mxGeometry height="40" width="752" x="1858" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-397" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{&#xa;    &amp;quot;status&amp;quot;: &amp;quot;approved&amp;quot;&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="1858" y="1363" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-398" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;id&amp;quot;: 41,&#xa;    &amp;quot;status&amp;quot;: &amp;quot;approved&amp;quot;&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="1858" y="1581" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-399" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 200 OK" vertex="1">
+          <mxGeometry height="30" width="752" x="1858" y="1814" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-400" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Provider approves a pending request; requester may edit while pending." vertex="1">
+          <mxGeometry height="44" width="752" x="1858" y="1859" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-401" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 403: not an authorized participant; 409: invalid status change." vertex="1">
+          <mxGeometry height="49" width="752" x="1858" y="1915" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-402" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;rounded=0;" value="" vertex="1">
+          <mxGeometry height="820" width="790" x="2660" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-403" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=19;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="8. PATCH : helplink.example/api/admin/users/{id}" vertex="1">
+          <mxGeometry height="60" width="752" x="2678" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-404" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Purpose: Change whether an account is blocked." vertex="1">
+          <mxGeometry height="58" width="752" x="2678" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-405" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Persona: Admin" vertex="1">
+          <mxGeometry height="40" width="752" x="2678" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-406" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Request body:&#xa;{&#xa;    &amp;quot;blocked&amp;quot;: true&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="2678" y="1363" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-407" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;" value="&lt;pre style=&quot;margin:0;white-space:pre-wrap;font-family:Courier New;font-size:17px;&quot;&gt;Response:&#xa;{&#xa;    &amp;quot;id&amp;quot;: 21,&#xa;    &amp;quot;blocked&amp;quot;: true&#xa;}&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="225" width="752" x="2678" y="1581" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-408" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontStyle=1;" value="Status: 200 OK" vertex="1">
+          <mxGeometry height="30" width="752" x="2678" y="1814" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-409" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=18;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Positive: Admin blocks an existing account." vertex="1">
+          <mxGeometry height="44" width="752" x="2678" y="1859" as="geometry" />
+        </mxCell>
+        <mxCell id="alt-410" parent="1" style="whiteSpace=wrap;html=0;strokeColor=#000000;fillColor=#FFFFFF;fontColor=#000000;fontFamily=Arial;fontSize=17;text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;" value="Negative: 403: not an admin; 404: account missing." vertex="1">
+          <mxGeometry height="49" width="752" x="2678" y="1915" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="alt-page-7" name="Q5 - Data and Relationships">
+    <mxGraphModel dx="3417" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2630" pageHeight="2180" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="db-rel-1" parent="1" style="text;strokeOpacity=0;fillOpacity=0;align=left;verticalAlign=top;fontSize=30;whiteSpace=wrap;html=0;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Arial;" value="HelpLink - Database Relationships" vertex="1">
+          <mxGeometry height="48" width="2500" x="45" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="330" x="320" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-2" parent="1UyUTIlSTB1HgOBvmXov-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="User" vertex="1">
+          <mxGeometry height="44" width="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-3" parent="1UyUTIlSTB1HgOBvmXov-1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;fullName&lt;br&gt;email&lt;br&gt;passwordHash&lt;br&gt;accountRole&lt;br&gt;accountStatus" vertex="1">
+          <mxGeometry height="180" width="330" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="314" width="350" x="1160" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-5" parent="1UyUTIlSTB1HgOBvmXov-4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="HelpRequest" vertex="1">
+          <mxGeometry height="44" width="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-6" parent="1UyUTIlSTB1HgOBvmXov-4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;clientId (FK)&lt;br&gt;categoryId (FK)&lt;br&gt;title&lt;br&gt;description&lt;br&gt;isUrgent&lt;br&gt;deadline (nullable)&lt;br&gt;status&lt;br&gt;createdAt" vertex="1">
+          <mxGeometry height="270" width="350" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="164" width="310" x="1650" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-8" parent="1UyUTIlSTB1HgOBvmXov-7" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="Category" vertex="1">
+          <mxGeometry height="44" width="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-9" parent="1UyUTIlSTB1HgOBvmXov-7" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;name&lt;br&gt;description&lt;br&gt;isActive" vertex="1">
+          <mxGeometry height="120" width="310" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="194" width="340" x="80" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-11" parent="1UyUTIlSTB1HgOBvmXov-10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="HelperProfile" vertex="1">
+          <mxGeometry height="44" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-12" parent="1UyUTIlSTB1HgOBvmXov-10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="userId (PK, FK)&lt;br&gt;bio&lt;br&gt;skills: String[]&lt;br&gt;portfolioLinks: String[]&lt;br&gt;availability" vertex="1">
+          <mxGeometry height="150" width="340" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="340" x="680" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-14" parent="1UyUTIlSTB1HgOBvmXov-13" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="HelpOffer" vertex="1">
+          <mxGeometry height="44" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-15" parent="1UyUTIlSTB1HgOBvmXov-13" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;requestId (FK)&lt;br&gt;helperId (FK)&lt;br&gt;message&lt;br&gt;status&lt;br&gt;createdAt" vertex="1">
+          <mxGeometry height="180" width="340" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="350" x="1260" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-17" parent="1UyUTIlSTB1HgOBvmXov-16" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="Review" vertex="1">
+          <mxGeometry height="44" width="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-18" parent="1UyUTIlSTB1HgOBvmXov-16" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;requestId (FK)&lt;br&gt;clientId (FK)&lt;br&gt;helperId (FK)&lt;br&gt;rating&lt;br&gt;comment" vertex="1">
+          <mxGeometry height="180" width="350" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="340" x="80" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-20" parent="1UyUTIlSTB1HgOBvmXov-19" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="Notification" vertex="1">
+          <mxGeometry height="44" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-21" parent="1UyUTIlSTB1HgOBvmXov-19" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;userId (FK)&lt;br&gt;requestId (FK, nullable)&lt;br&gt;content&lt;br&gt;isRead&lt;br&gt;createdAt" vertex="1">
+          <mxGeometry height="180" width="340" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="340" x="680" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-23" parent="1UyUTIlSTB1HgOBvmXov-22" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="Message" vertex="1">
+          <mxGeometry height="44" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-24" parent="1UyUTIlSTB1HgOBvmXov-22" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;requestId (FK)&lt;br&gt;senderId (FK)&lt;br&gt;recipientId (FK)&lt;br&gt;content&lt;br&gt;sentAt" vertex="1">
+          <mxGeometry height="180" width="340" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="224" width="350" x="1260" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-26" parent="1UyUTIlSTB1HgOBvmXov-25" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;fillColor=#eeeeee;" value="ProblemReport" vertex="1">
+          <mxGeometry height="44" width="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-27" parent="1UyUTIlSTB1HgOBvmXov-25" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSize=16;fontColor=#111111;strokeColor=#555555;fillColor=#ffffff;strokeColor=none;spacingLeft=14;align=left;verticalAlign=top;spacingTop=8;" value="id (PK)&lt;br&gt;authorId (FK)&lt;br&gt;requestId (FK)&lt;br&gt;details&lt;br&gt;status&lt;br&gt;createdAt" vertex="1">
+          <mxGeometry height="180" width="350" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-28" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-10" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.8;exitY=1;entryX=0.1;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="userId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="640" />
+              <mxPoint x="353" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-29" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-4" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0;exitY=0.36;entryX=1;entryY=0.52;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="clientId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="922" />
+              <mxPoint x="950" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-30" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-4" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=1;exitY=0.3;entryX=0;entryY=0.58;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-7" value="categoryId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="904" />
+              <mxPoint x="1580" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-31" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-13" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.82;exitY=1;entryX=0.15;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-4" value="requestId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="959" y="620" />
+              <mxPoint x="1212" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-32" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-13" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.2;exitY=1;entryX=0.48;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="helperId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="748" y="570" />
+              <mxPoint x="478" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-33" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.78;exitY=1;entryX=0.85;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-4" value="requestId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1533" y="700" />
+              <mxPoint x="1457" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-34" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.18;exitY=1;entryX=0.73;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="clientId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1323" y="530" />
+              <mxPoint x="561" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-35" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.42;exitY=1;entryX=0.9;entryY=0;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="helperId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1407" y="490" />
+              <mxPoint x="617" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-36" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-19" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.75;exitY=0;entryX=0.1;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="userId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="1210" />
+              <mxPoint x="353" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-37" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-19" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.95;exitY=0;entryX=0.15;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-4" value="requestId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="403" y="1330" />
+              <mxPoint x="1212" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-38" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-22" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.85;exitY=0;entryX=0.5;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-4" value="requestId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="969" y="1280" />
+              <mxPoint x="1335" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-39" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-22" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.15;exitY=0;entryX=0.43;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="senderId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1220" />
+              <mxPoint x="462" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-40" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-22" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.4;exitY=0;entryX=0.68;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="recipientId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="816" y="1260" />
+              <mxPoint x="544" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-41" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-25" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.8;exitY=0;entryX=0.85;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-4" value="requestId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="1240" />
+              <mxPoint x="1457" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1UyUTIlSTB1HgOBvmXov-42" edge="1" parent="1" source="1UyUTIlSTB1HgOBvmXov-25" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;fontFamily=Arial;fontSize=14;labelBackgroundColor=#ffffff;exitX=0.15;exitY=0;entryX=0.9;entryY=1;exitPerimeter=0;entryPerimeter=0;" target="1UyUTIlSTB1HgOBvmXov-1" value="authorId">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1312" y="1380" />
+              <mxPoint x="617" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

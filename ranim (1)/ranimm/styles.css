@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #302936;
+    background: white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    padding: 18px 20px;
+    border-bottom: 1px solid #c8bbcf;
+}
+
+.logo {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+}
+
+a {
+    color: #76528b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    width: 100%;
+    min-height: 650px;
+    margin: 25px 0;
+    padding: 0 20px;
+}
+
+.account {
+    color: #65546f;
+    margin-bottom: 25px;
+}
+
+h1 {
+    margin: 0 0 20px;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    margin: 0 0 12px;
+    font-size: 19px;
+}
+
+.card {
+    padding: 20px;
+    margin: 22px 0;
+    border: 1px solid #c8bbcf;
+}
+
+.button, button {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #b6a4c0;
+    background: #eee6f3;
+    color: #583868;
+    font: inherit;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button:hover, button:hover {
+    background: #ded0e7;
+    text-decoration: none;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    margin: 18px 0 6px;
+    font-weight: bold;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #b6a4c0;
+    background: white;
+    font: inherit;
+    color: #302936;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+footer {
+    padding: 18px 20px;
+    border-top: 1px solid #c8bbcf;
+    color: #65546f;
+}
+
+.categories {
+    margin: 25px 0;
+}
+
+.categories a {
+    padding: 22px;
+}
+
+.card h2 {
+    margin-top: 0;
+}
